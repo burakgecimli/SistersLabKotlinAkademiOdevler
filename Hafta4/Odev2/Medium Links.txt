@@ -1,1 +1,3 @@
 https://medium.com/@burakgecimli444/kotlin-kal%C4%B1t%C4%B1m-inheritance-ve-miras-alma-19d32a3b129a
+
+https://medium.com/@burakgecimli444/kotlinde-dizilerle-veri-saklama-ve-i%CC%87%C5%9Flemler-6161b4351962
