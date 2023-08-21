@@ -22,9 +22,8 @@
 
 <table>
   <tr>
-    <td><img src="(https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/e1b284d4-d1a8-410d-9f37-d99303a8e9d2)" width="300" height="600"></td>
-    <td><video src="
-https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/3f1ec20e-a6c7-4679-a464-05c66e3bc045" width="300" height="600" controls>
+    <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/e1b284d4-d1a8-410d-9f37-d99303a8e9d2" width="300" height="600"></td>
+    <td><video src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/3f1ec20e-a6c7-4679-a464-05c66e3bc045" width="300" height="600" controls>
 </video>
 </td>
   </tr>
