@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-   <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/7084fb7d-3e2e-4742-8b32-54b76bb0a9db" width="300" height="600">
+   <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/7084fb7d-3e2e-4742-8b32-54b76bb0a9db">
     <td><video src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/3f1ec20e-a6c7-4679-a464-05c66e3bc045" width="300" height="600" controls>
 </video>
 </td>
