@@ -21,14 +21,12 @@
 # Hafta 6 Tasarımları 
 <table>
   <tr>
-   <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/35126a45-78ad-45ab-b69f-bc0e9fefb9ae">
+   <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/3f143176-321e-4fc8-9b55-141f0c66134c">
     <td><video src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/3f1ec20e-a6c7-4679-a464-05c66e3bc045" width="300" height="600" controls>
 </video>
 </td>
   </tr>
 </table>
-
-
 
 
 
