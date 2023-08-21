@@ -19,7 +19,6 @@
 </table>
 
 # Hafta 6 Tasarımları 
-
 <table>
   <tr>
    <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/35126a45-78ad-45ab-b69f-bc0e9fefb9ae">
