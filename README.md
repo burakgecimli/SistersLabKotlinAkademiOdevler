@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/82a6f7b9-2f7a-4e96-acdb-95b0f343a155"></td>
+    <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/82a6f7b9-2f7a-4e96-acdb-95b0f343a155" width="300" height="600"></td>
     <td><video src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/2e7e2c52-57e3-4442-a517-b5e742e5e8d9" width="300" height="600" controls>
 </video>
 </td>
@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/e1b284d4-d1a8-410d-9f37-d99303a8e9d2" width="300" height="600"></td>
+   <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/7084fb7d-3e2e-4742-8b32-54b76bb0a9db" width="300" height="600">
     <td><video src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/3f1ec20e-a6c7-4679-a464-05c66e3bc045" width="300" height="600" controls>
 </video>
 </td>
