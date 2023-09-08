@@ -1,13 +1,13 @@
 # SistersLabKotlinAkademiOdevler
 
 
-# Hafta 3 Tasarımları 
+# Hafta 3 
 ![hafta3](https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/d07f0c46-e105-4dfb-8e3a-82732eca527b)
 
-# Hafta 4 Tasarımları 
+# Hafta 4
 ![ScreenShots](https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/f6662d04-0612-4576-98ad-456b2fbda88f) 
 
-# Hafta 5 Tasarımları 
+# Hafta 5 
 
 <table>
   <tr>
@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-# Hafta 6 Tasarımları 
+# Hafta 6 
 <table>
   <tr>
    <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/3f143176-321e-4fc8-9b55-141f0c66134c">
@@ -27,6 +27,16 @@
 </td>
   </tr>
 </table>
+
+# Hafta 7
+<table>
+  <tr>
+   <td><img src="https://github.com/burakgecimli/SistersLabKotlinAkademiOdevler/assets/62941438/3305b083-23e5-4628-b150-0e457ad3be30"></td>
+  </tr>
+</table>
+
+
+
 
 
 
